@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(236, 243, 247)
+}
+nav{
+    align-items: flex-end;
+    background-color: rgb(97, 134, 235);
+}
+body{
+    background-size: 100%;
+}
+#bixo{
+    margin-right: 75%;
+}
+#inicial{
+    background-image:url(../img/casa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}

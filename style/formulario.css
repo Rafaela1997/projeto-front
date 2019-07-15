@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(236, 243, 247)
+}
+nav{
+    align-items: flex-end;
+    background-color: rgb(97, 134, 235);
+}
+h11 {
+    color:red;
+}
+
+#botao {
+        color: blue
+}
+
+.panel-heading{
+    font-size:150%;
+}
