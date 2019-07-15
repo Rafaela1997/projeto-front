@@ -9,7 +9,7 @@ fetch('https://localhost:5000/', {
         'Accept': 'application/json',
         'Content-Type': 'application/json'
     },
-.then(response => console.log("achei!"));
+.then(response => console.log("achei!"))
 })
 
 
@@ -49,5 +49,4 @@ fetch('https://localhost:5000/', {
     }else{
         console.log("erro :c")
     }
-}
 request.send()
